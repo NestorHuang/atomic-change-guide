@@ -1,6 +1,8 @@
 
 <center>
-![封面](./images/cover.jpg)
+
+![封面](images/cover.jpg)
+
 </center>
 
 ### 前言
