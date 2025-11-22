@@ -1,8 +1,7 @@
 
 <center>
 
-![封面](https://nestorhuang.github.io/atomic-change-guide/images/cover.jpg)
-
+<img src="images/cover.jpg" alt="Cover">
 </center>
 
 ### 前言
