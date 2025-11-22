@@ -1,7 +1,7 @@
 
 <center>
 
-![封面](images/cover.jpg)
+![封面](https://nestorhuang.github.io/atomic-change-guide/images/cover.jpg)
 
 </center>
 
