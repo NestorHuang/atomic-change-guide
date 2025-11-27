@@ -504,4 +504,4 @@
 都會比較紮實，也比較不痛苦。
 
 ##### [[下一章]](chapter06.md)
-[回目錄](README.md)
+[回目錄](tableofcontents.md)

@@ -690,4 +690,4 @@
 從你自己開始。
 
 ##### [[下一章]](chapter15.md)
-##### [[回目錄]](README.md)
+##### [[回目錄]](tableofcontents.md)
